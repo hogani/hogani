@@ -2,6 +2,7 @@
 - 👀 I’m interested in ai
 - 🌱 I’m currently learning how to use ai
 - .
+- ..
 
 <!---
 hogani/hogani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
