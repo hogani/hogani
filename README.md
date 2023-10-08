@@ -2,7 +2,7 @@
 - 👀 I’m interested in ai .
 - 🌱 I’m currently learning how to use ai .
 - .
-- .
+- 
   
 
 <!---
